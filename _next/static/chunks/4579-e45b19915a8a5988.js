@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4579],{386:(e,t,a)=>{a.d(t,{C1:()=>i,L:()=>n});let n=1e3,i="https://api.minirouter.sh/v1"},984:(e,t,a)=>{a.d(t,{RequestCodePanel:()=>p});var n=a(5309),i=a(2089),s=a(365),r=a(6790),l=a(4499),o=a(3670),c=a(1439),d=a(386);let m=[{id:"curl",label:"cURL",filename:"first-request.sh",code:`curl ${d.C1}/chat/completions \\
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4579],{386:(e,t,a)=>{a.d(t,{C1:()=>i,L:()=>n});let n=1e3,i="https://microrouter.xyz/v1"},984:(e,t,a)=>{a.d(t,{RequestCodePanel:()=>p});var n=a(5309),i=a(2089),s=a(365),r=a(6790),l=a(4499),o=a(3670),c=a(1439),d=a(386);let m=[{id:"curl",label:"cURL",filename:"first-request.sh",code:`curl ${d.C1}/chat/completions \\
   -H "Authorization: Bearer mr-live-…" \\
   -H "Content-Type: application/json" \\
   -d '{

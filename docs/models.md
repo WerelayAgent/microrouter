@@ -13,7 +13,7 @@ Model IDs use author/name format. Copy them exactly as returned by the API.
 
 ## Source of truth
 
-GET https://api.microrouter.xyz/v1/models: OpenAI-shaped list (authenticated)
+GET https://microrouter.xyz/v1/models: OpenAI-shaped list (authenticated)
 GET https://microrouter.xyz/api/v1/models: public model list with pricing,
 context_length and architecture (no key required, CORS enabled).
 
